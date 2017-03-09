@@ -1,4 +1,4 @@
-# DeliveryHeroClone
+# Delivery Hero Clone
 ## Description
 This project clones the basic features of deliveryhero. It is developed for my Database Systems class. 
 I had coded entire project in 2-3 days. Therefore, there might be some bugs in both frontend and backend. Sorry for that.
